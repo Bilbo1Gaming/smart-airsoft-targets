@@ -6,7 +6,7 @@ I am making 16 200x200mm targets and 4 200x300mm targets.
 
 Each target: 
 - Is battery powered (2500mAh 18650)
-- Has 4 piezo electric discs to detect being shot( and potentially triangulate where it got shot for a more precise game mode)
+- Ha    s 4 piezo electric discs to detect being shot( and potentially triangulate where it got shot for a more precise game mode)
 - Has an esp8266 inside
 - Communicates with a master ESP32 over ESP-NOW
 - Has LEDs to indicate state (whether to shoot or not / how many shots left until target is considered hit / down)
